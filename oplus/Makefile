@@ -24,6 +24,7 @@ OPLUS_KALAMA_BOARDS += \
 else ifeq ($(CONFIG_ASTON_DTB),y)
 OPLUS_KALAMA_BOARDS += \
 		aston-23801-kalama-overlay.dtbo \
+		aston-23801-kalama-overlay-v2.dtbo \
 		aston-23861-kalama-overlay.dtbo \
 		aston-23801-kalama-overlay-T0.dtbo \
 		aston-23861-kalama-overlay-T0.dtbo \
